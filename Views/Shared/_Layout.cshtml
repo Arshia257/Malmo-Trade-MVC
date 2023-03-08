@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    @RenderSection("styles", false)
+    <link rel="stylesheet" href="~/css/site.css">
+        <link rel="stylesheet" href="~/css/Details.css">
+    <title>@ViewData["Title"] - MalmöTradera</title>
+</head>
+<body class="background-img">
+        <nav class="navbar">
+            <ul>
+                <div class="right">
+                    <a asp-action="Index" asp-controller="Home">Start</a>
+                    <a asp-action="Index" asp-controller="Items">Handla</a>
+                    <a asp-action="Create" asp-controller="Items">Lägg till</a>    
+                </div>
+               
+               <p>MalmöTradera</p>
+            </ul>
+        </nav>    
+    <main>
+        @RenderBody()
+    </main>
+</body>
+
+</html>

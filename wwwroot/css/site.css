@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    padding: 40px;
+    font-size: 25px;
+    color: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+
+}
+
+p, a, a + a{
+    justify-content: space-between;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 26px;
+}
+
+a:hover{
+text-decoration: underline;
+
+}
+
+
+.right{
+    float: right;
+}
+
+
+.background-img{
+    background-image: url('/css/images/shop.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.grid{
+    background-color: white;
+    width: 380px;
+    height: 350px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    border-radius: 25px;
+}
+
+.product-img{
+    width: 150px;
+    height: auto;
+}
+
+.top{
+text-align: center;
+}
+
+.center{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.price{
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button{
+    float: none;
+    color: black;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

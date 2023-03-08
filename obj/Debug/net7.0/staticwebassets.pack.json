@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\Details.css",
+      "PackagePath": "staticwebassets\\css\\Details.css"
+    },
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\images\\shop.jpg",
+      "PackagePath": "staticwebassets\\css\\images\\shop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MalmöTradera.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MalmöTradera.web.props",
+      "PackagePath": "build\\MalmöTradera.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MalmöTradera.web.props",
+      "PackagePath": "buildMultiTargeting\\MalmöTradera.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MalmöTradera.web.props",
+      "PackagePath": "buildTransitive\\MalmöTradera.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

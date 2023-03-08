@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "PBDp7b0RMKdifYZPibLLkd0n3+vxkhmthLMeH5WdqyM=",
+  "Source": "MalmöTradera.web",
+  "BasePath": "_content/MalmöTradera.web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MalmöTradera.web\\wwwroot",
+      "Source": "MalmöTradera.web",
+      "ContentRoot": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\",
+      "BasePath": "_content/MalmöTradera.web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\Details.css",
+      "SourceId": "MalmöTradera.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\",
+      "BasePath": "_content/MalmöTradera.web",
+      "RelativePath": "css/Details.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Details.css"
+    },
+    {
+      "Identity": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\images\\shop.jpg",
+      "SourceId": "MalmöTradera.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\",
+      "BasePath": "_content/MalmöTradera.web",
+      "RelativePath": "css/images/shop.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\shop.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\site.css",
+      "SourceId": "MalmöTradera.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\",
+      "BasePath": "_content/MalmöTradera.web",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
