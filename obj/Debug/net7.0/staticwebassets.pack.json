@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\Details.css",
-      "PackagePath": "staticwebassets\\css\\Details.css"
-    },
-    {
       "Id": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\images\\shop.jpg",
       "PackagePath": "staticwebassets\\css\\images\\shop.jpg"
     },

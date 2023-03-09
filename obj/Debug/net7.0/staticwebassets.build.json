@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PBDp7b0RMKdifYZPibLLkd0n3+vxkhmthLMeH5WdqyM=",
+  "Hash": "BGBDSgiABYBXTnUqGp/4kaqYfQuby2oDz5vhpwwhPjI=",
   "Source": "MalmöTradera.web",
   "BasePath": "_content/MalmöTradera.web",
   "Mode": "Default",
@@ -16,23 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\Details.css",
-      "SourceId": "MalmöTradera.web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\",
-      "BasePath": "_content/MalmöTradera.web",
-      "RelativePath": "css/Details.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Details.css"
-    },
     {
       "Identity": "C:\\Users\\46739\\Desktop\\VsCode\\Inlämning\\MVC\\MalmöTradera.web\\wwwroot\\css\\images\\shop.jpg",
       "SourceId": "MalmöTradera.web",
