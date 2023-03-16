@@ -11,7 +11,7 @@ namespace MalmöTradera.web.ViewModel
         public string Name { get; set; }
          [Required(ErrorMessage = "pris måste anges")]
         [DisplayName("Pris")]
-        public int price { get; set; }
+        public int Value { get; set; }
         [DisplayName("Beskrivning")]
         public string Description { get; set; }
         [DisplayName("ImageUrl")]

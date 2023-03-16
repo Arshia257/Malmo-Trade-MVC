@@ -69,6 +69,6 @@ using westcoast_cars.web.Data;
 
         if (!post.IsSuccessStatusCode) return Content("Bad request");
 
-        return View("Index");
+        return RedirectToAction("Index");
     }
 }

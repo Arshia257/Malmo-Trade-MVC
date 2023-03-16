@@ -5,18 +5,14 @@
         {
             <div class="grid">
                 <div class="top">
-                    @if (@items.ImageUrl == "no-Image.png")
-                    {
-                        <img class="product-img-no-image" src="@items.ImageUrl">
-
-                    }
+        
                    <img class="product-img" src="@items.ImageUrl">
                    
                 </div>
                 <div class="bottom">
                     <div class="center">@items.Name</div>
                     <div class="price">värde: @items.price kr</div>
-                         <a asp-action="Details" asp-controller="Items" asp-route-id="@items.id">Se mer </a>
+                    <a asp-action="Details" asp-controller="Items" asp-route-id="@items.id" class="button">Se mer </a>
                 </div>
                 
             </div>

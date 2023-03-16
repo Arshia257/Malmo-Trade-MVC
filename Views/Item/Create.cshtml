@@ -1,7 +1,7 @@
 @model MalmöTradera.web.ViewModel.ItemPostViewModel
 
 
-<section>
+<section class="grid">
     <h1 class="page-title">Lägg till product</h1>
     <form asp-action="Create">
         <div class="form-control">
@@ -9,16 +9,12 @@
             <input asp-for="Name" type="text">
         </div>
         <div class="form-control">
-            <label asp-for="price"></label>
-            <input asp-for="price" type="text">
+            <label asp-for="Value"></label>
+            <input asp-for="Value" type="number">
         </div>
         <div class="form-control">
             <label asp-for="Description"></label>
             <input asp-for="Description" type="text">
-        </div>
-            <div class="form-control">
-            <label asp-for="ImageUrl"></label>
-            <input asp-for="ImageUrl" type="text">
         </div>
         <div class="form-control">
             <div class="buttons-container">

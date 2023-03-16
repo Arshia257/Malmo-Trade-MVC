@@ -1,6 +1,6 @@
 @model MalmöTradera.web.ViewModel.ItemsDetailListViewModel
-        <div class="Index-backgroundcolor">
-                <div class="wrapper">
+        <div class="grid">
+                <div class="top">
                         <a class="button" asp-action="index" asp-asp-controller="Items">Tillbaka</a>
                         <p class="name">@Model.Name</p>
                         <div class="info">
@@ -9,6 +9,6 @@
                         <span><strong>Beskrivning:</strong></span>
                         <span>@Model.Description</span> 
                         </div>               
-                        <img class="img" src="@Model.ImageUrl">
+                        <img class="product-img" src="@Model.ImageUrl">
                 </div>
         </div>
